@@ -9,7 +9,7 @@ class Login extends React.Component {
       <div style={{minHeight:"100vh"}} className="d-flex flex-column justify-content-center align-items-center">
           <div  className="py-3 border col-4 d-flex flex-column align-items-center justify-content-center">
 
-        <h1 className="d-flex">Login</h1>
+        <h1 className="d-flex">Login </h1>
        { this.renderLoginForm()}
           </div>
       </div>
